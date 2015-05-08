@@ -1,2 +1,2 @@
 # TipCalc
-Tip Calculator
+Tip Calculator Android app
